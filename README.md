@@ -14,7 +14,7 @@ FALL 2017 Events will be scheduled in the weeks prior to the semester beginning.
 
 
 ## Previous Semesters' Meetings
-[Fall 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Fall2017#python-study-group-fall-2017)
-[Prior to Summer 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Archive#python-study-group-archive)
+- [Fall 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Fall2017#python-study-group-fall-2017)
+- [Prior to Summer 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Archive#python-study-group-archive)
 
 
