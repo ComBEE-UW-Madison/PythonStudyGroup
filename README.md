@@ -2,6 +2,8 @@
 
 Welcome to the ComBEE's Python Study Group held at UW-Madison repo! 
 
+[!ComBEE Logo](img/combeelogo.PNG)
+
 [Click here for more info about the ComBEE organization website](https://combee-uw-madison.github.io/studyGroup/)
 
 This group of researchers meets bi-weekly to discuss coding in python.
