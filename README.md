@@ -1,8 +1,10 @@
+![ComBEE Logo](img/combeelogo.PNG)
+
 # ComBEE Python Study Group @ UW-Madison 
 
 Welcome to the ComBEE's Python Study Group held at UW-Madison repo! 
 
-![ComBEE Logo](img/combeelogo.PNG)
+![ComBEE](img/combee.PNG)
 
 [Click here for more info about the ComBEE organization website](https://combee-uw-madison.github.io/studyGroup/)
 
