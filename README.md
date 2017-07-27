@@ -9,10 +9,11 @@ Welcome to the ComBEE's Python Study Group held at UW-Madison repo!
 This group of researchers meets bi-weekly to discuss coding in python.
 
 ## Join us!
-Sign up for our listserv by sending a blank email to [combee-psg@lists.wisc.edu](mailto:combee-psg@lists.wisc.edu).
+Sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu).
 
 ## Upcoming events!
-FALL 2017 Events will be scheduled in the weeks prior to the semester beginning.  To recieve updates about the coming semester meetings, sign up for our listserv by sending a blank email to [combee-psg@lists.wisc.edu](mailto:combee-psg@lists.wisc.edu). 
+FALL 2017 Events will be scheduled in the weeks prior to the semester beginning.
+To recieve updates about the coming semester meetings, sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu). 
 
 
 ## Previous Semesters' Meetings
