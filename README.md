@@ -12,7 +12,7 @@ This group of researchers meets bi-weekly to discuss coding in python.
 Sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu).
 
 ## Upcoming events!
-FALL 2017 Events will be scheduled in the weeks prior to the semester beginning.
+**For Fall 2017, Python Study Group will meet every other week on Thursdays at 2 PM in Microbial Sciences Building 5503, starting September 21st**
 To recieve updates about the coming semester meetings, sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu). 
 
 
