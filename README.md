@@ -22,7 +22,6 @@ To recieve updates about the coming semester meetings, sign up for our listserv 
 
 
 ## Previous Semesters' Meetings
-- [Fall 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Fall2017#python-study-group-fall-2017)
 - [Prior to Summer 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Archive#python-study-group-archive)
 
 
