@@ -22,6 +22,10 @@ To recieve updates about the coming semester meetings, sign up for our listserv 
 
 
 ## Previous Semesters' Meetings
+
+Special thanks to the [past leaders of python study group](Archive/Past_Leaders.md)!
+
+### Notes and other info
 - [Prior to Summer 2017](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/tree/master/Archive#python-study-group-archive)
 
 

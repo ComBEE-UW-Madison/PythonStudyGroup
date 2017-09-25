@@ -2,8 +2,7 @@
 
 This sub-directory contains notes and code for ComBEE Python Study Group prior to creation of the Github Organization. 
 
-
-
+Special thanks to the [past leaders of python study group](Past_Leaders.md)!
 
 ## Archive of Meetings Prior to Github Org (pre-Summer 2017):
 With google docs where available.
