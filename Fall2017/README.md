@@ -13,4 +13,5 @@ This sub-directory contains notes and code for Python Study Group during Fall 20
 
 ## Notes for Fall 2017:
 
-[Sept 21 Meeting](20170921_Meeting1.md)
+[Sept 21 Meeting](20170921_Meeting1.md)  
+[Oct 5 Meeting](20171005_Meeting2.md)
