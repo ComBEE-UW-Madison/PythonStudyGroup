@@ -8,8 +8,8 @@ This sub-directory contains notes and code for Python Study Group during Fall 20
 - October 5th: Intro to Python and Data Structures
 - October 19th: Object Oriented Programming
 - November 2nd: BioPython Showcase
-- November 16th: Plotting in Python
-- December 7th: Larger than Memory Issues
+- November 16th: Larger than Memory Issues
+- November 30th: Plotting in Python
 
 ## Notes for Fall 2017:
 
