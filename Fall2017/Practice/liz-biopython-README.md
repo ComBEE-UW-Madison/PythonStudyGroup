@@ -4,17 +4,17 @@ This script takes a collection of clusters produced by the program MCL (Markov C
 
 1. MCL output
 
-![](/Figs/mcl.png)
+![](Figs/mcl.png)
 
 MCL gives all collections of all proteins, and the clusters are separated by tabs. This is really messy at the moment. My script first creates separate cluster files for the proteins to be stored in to easily parse the information. Then given the concatenated FASTA file, the dictionary script matches up the ID/sequence within each cluster to create individual .fa files for downstream analyses using `from Bio import SeqIO`. The output looks like this:
 
 2. Collection of cluster .fa files
 
-![](/Figs/clusters.png)
+![](Figs/clusters.png)
 
 Where each cluster###.fa file looks like this (for example `cluster0010.fa`):
 
-![](/Figs/indvclust.png)
+![](Figs/indvclust.png)
 
 
-Whereas before it was just a list of proteins in a non-human readable form to figure out clusters, I now have separated clusters with the corresponding sequences to those proteins. Now I can use these collections of .fa cluster files to find proteins of interest for downstream analyses. 
+Whereas before it was just a list of proteins in a non-human readable form to figure out clusters, I now have separated clusters with the corresponding sequences to those proteins. Now I can use these collections of .fa cluster files to find proteins of interest for downstream analyses.
