@@ -17,4 +17,13 @@ Liz's code from meeting 3
 ## undetermined_fastq.py
 John's code for meeting 4
 
+## regex_and_entrez
+Kirk's code for meeting 4
+
+## seq_qual2trimmed_fastq.gz
+Huan's code for meeting 4
+
+## biopython-example.py
+Liz's code for meeting 4
+
 
