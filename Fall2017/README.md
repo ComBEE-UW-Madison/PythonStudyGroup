@@ -8,7 +8,7 @@ This sub-directory contains notes and code (in the [Practice](Practice/) folder)
 - October 5th: Intro to Python and Data Structures
 - October 19th: Object Oriented Programming
 - November 2nd: BioPython Showcase
-- November 16th: Larger than Memory Issues
+- November 14th: Larger than Memory Issues
 - November 30th: Plotting in Python
 
 ## Notes for Fall 2017:
