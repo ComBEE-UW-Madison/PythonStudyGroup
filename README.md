@@ -14,6 +14,8 @@ Sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc
 ## Upcoming events!
 Python Study Group will meet on alternating Thursdays @ 2 PM in MSB 5503 for the Spring 2018 semester starting February 8th. 
 
+[February 8th: Topics Discussion](https://hackmd.io/MYZghgjADALARgMwLQCYAmokwgUxUsFKAViSgDY00Eo4YVgwcg==)
+
 To recieve updates about the coming semester meetings, sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu). 
 
 
