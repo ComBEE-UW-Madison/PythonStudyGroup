@@ -3,6 +3,7 @@
 ComBEE is a peer-led group and we are very grateful to the people who volunteered their time and efforts to organizing and leading python study group.
 
 ### Thanks to:
+- Huan Fan - Fall 2018
 - Ian Miller - Fall 2015, Fall 2016
 - Tatum Mortimer - Summer 2015
 - Dean Sanders - Spring 2017
