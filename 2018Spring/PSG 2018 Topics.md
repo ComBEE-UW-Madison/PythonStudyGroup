@@ -13,5 +13,3 @@ Python Study Group - Feb 8th 2018
 - Cython/Speedy code!
     - Multiprocessing?
     - Multi-core or multi threading
-
-    test
