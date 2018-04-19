@@ -13,3 +13,6 @@ https://hackmd.io/kyofxd_zTTOhYDnZjsywxQ
 
 20180405
 https://hackmd.io/njGuXqcQRAOGyUQfrLxi5A
+
+20180419
+https://hackmd.io/qo2U36yOT22q2ZVUFRwrnw
