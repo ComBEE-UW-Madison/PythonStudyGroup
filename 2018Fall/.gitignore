@@ -39,3 +39,7 @@ Thumbs.db
 # files that can be downloaded #
 ################################
 *.csv
+
+# ipypnb checkpoints #
+######################
+.ipynb_checkpoint/*
