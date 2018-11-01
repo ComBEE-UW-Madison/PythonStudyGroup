@@ -43,3 +43,7 @@ Thumbs.db
 # ipypnb checkpoints #
 ######################
 .ipynb_checkpoints/*
+
+# vim files #
+#############
+*.swp
