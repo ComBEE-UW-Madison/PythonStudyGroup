@@ -7,27 +7,29 @@ import argparse
 import sys
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-p', '--patient', action='store_true', help='calculates based on patients')
-parser.add_argument('-d', '--day', action='store_true', help='calculates based on days')
-parser.add_argument('-infile', nargs='*', type=argparse.FileType('r'), default=sys.stdin, help='filename to be processed')
-parser.add_argument('-outfile', nargs='?', type=argparse.FileType('w'), default=sys.stdout, help='file to write to; defaults to stdout')
-
+parser.add_argument('-d', '--day', type='store_true', help='calculates based on days')
+parser.add_argument('-p', '--patient', type='store_true', help='calculates based on patients')
+parser.add_argument('-f', '--file', type=file, nargs='*', default=sys.stdin, help='filename to be processed')
 args = parser.parse_args()
 
+#print(args)
+assert args.day or args.patient, 'you must have either patient or day option enabled'
+
+if args.day:
+    axis=0
+else:
+    axis=1
+
 def process():
-    if not (args.day or args.patient):
-        for line in args.infile:
-            line = [int(i) for i in line.split()]
-            print(np.mean(line))
-    else:
-        for filename in args.infile:
-            print(filename.name)
-            if args.day:
-                axis = 0
-            else:
-                axis = 1
+    if args.file:
+        with open(args.file, 'r') as f:
             data = np.loadtxt(filename, delimiter=',')
-            print(np.mean(data, axis=axis))
-        
+            for m in np.mean(data, axis=axis):
+                print(m)
+    else:
+        data = sys.stdin.split()
+        print(data)
+
+
 if __name__ == '__main__':
     process()

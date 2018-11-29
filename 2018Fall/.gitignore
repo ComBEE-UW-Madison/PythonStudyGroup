@@ -47,3 +47,7 @@ Thumbs.db
 # vim files #
 #############
 *.swp
+
+# ipython folder #
+##################
+*__pycache__*
