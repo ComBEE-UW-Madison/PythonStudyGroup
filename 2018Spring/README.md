@@ -2,17 +2,18 @@
 
 This sub-directory contains notes and code for Python Study Group Spring 2018. 
 
-20180222
-https://hackmd.io/GYZgLADAjAxgpgEwLQCYYA5hLCAbLpAIwENdikoBOMXMdECOCYOIA===
+[February 8th: Topics Discussion](https://hackmd.io/MYZghgjADALARgMwLQCYAmokwgUxUsFKAViSgDY00Eo4YVgwcg==)
 
-20180308
-https://hackmd.io/UsMPR5W9Q1OKy_k9q5-Khw
+[February 22nd](https://hackmd.io/GYZgLADAjAxgpgEwLQCYYA5hLCAbLpAIwENdikoBOMXMdECOCYOIA===): Pythonic syntax
 
-20180322
-https://hackmd.io/kyofxd_zTTOhYDnZjsywxQ
+[March 8th](https://hackmd.io/UsMPR5W9Q1OKy_k9q5-Khw): Lists, dictionaries, and sets
 
-20180405
-https://hackmd.io/njGuXqcQRAOGyUQfrLxi5A
+[March 22nd](https://hackmd.io/kyofxd_zTTOhYDnZjsywxQ): Pandas and Displaying Data
 
-20180419
-https://hackmd.io/qo2U36yOT22q2ZVUFRwrnw
+[April 5th](https://hackmd.io/njGuXqcQRAOGyUQfrLxi5A): BioPython and working with Sequence Data
+
+[April 19th](https://hackmd.io/qo2U36yOT22q2ZVUFRwrnw): ETE package and working with phylogenetic trees
+
+May 3rd: Cython and speeding up code
+
+
