@@ -4,6 +4,10 @@ This sub-directory contains notes and code for ComBEE Python Study Group prior t
 
 Special thanks to the [past leaders of python study group](Past_Leaders.md)!
 
+## Meetings after Summer 2017
+- [Fall 2017](https://github.com/sstevens2/PythonStudyGroup/tree/master/Archive/Fall2017#python-study-group-fall-2017)
+
+
 ## Archive of Meetings Prior to Github Org (pre-Summer 2017):
 With google docs where available.
 
