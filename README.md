@@ -12,7 +12,7 @@ This group of researchers meets bi-weekly to discuss coding in python.
 Sign up for our listserv by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu).
 
 ## Upcoming events!
-Python Study Group will resume meeting on alternating Thursdays @ 2 PM in MSB 5503 for the Spring 2019 semester starting date TBA. Check back for updates in Jan 2019 or sign up for our email list to get the latest news!
+Python Study Group meets on alternating Thursdays at 2:30 PM in MSB 5503 starting January 31st for the Spring 2019 semester.
 
 To recieve updates about the coming semester meetings, sign up for our email list by sending a blank email to [join-combee-psg@lists.wisc.edu](mailto:join-combee-psg@lists.wisc.edu). 
 
