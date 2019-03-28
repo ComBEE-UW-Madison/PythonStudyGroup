@@ -6,7 +6,7 @@ This sub-directory contains notes and code for Python Study Group Spring 2019.
 
 [February 14th](https://hackmd.io/i2zloKidRl24YLK6IhQVNQ?view "HackMD Page"): BeautifulSoup and requests
 
-[February 28th]( "HackMD Page"): Lists, dictionaries, and sets
+[February 28th](https://hackmd.io/YXXu7mVjSH2lQ1Hj04w1Mw "HackMD Page"): Lists, dictionaries, and sets
 
 [March 14th]( "HackMD Page"): BioPython and working with Sequence Data
 
