@@ -10,12 +10,8 @@ This sub-directory contains notes and code for Python Study Group Spring 2019.
 
 [March 28th](https://hackmd.io/ABIkl3vtSiOmFGSHZEw6rA?both): Performing a non-synonymous to synonymous codon usage analysis using Docker and Python
 
-[April 11th]("HackMD Page"): Pandas and Displaying Data
+[April 11th](./apr11/apr11.md): Pandas and Displaying Data
 
-<<<<<<< HEAD
-[April 11th](apr11/apr11.md): Visualization (Seaborn) and Pandas
-=======
 [April 25th]("HackMD Page"): TBD
->>>>>>> c7e983f3d662a399e791fe93a0e17dc2b48c9a2f
 
 May 9th - March 14th postponed to May 9th: TBD
