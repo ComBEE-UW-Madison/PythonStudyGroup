@@ -12,6 +12,6 @@ This sub-directory contains notes and code for Python Study Group Spring 2019.
 
 [March 28th]( "HackMD Page"): Pandas and Displaying Data
 
-[April 11th]( "HackMD Page"): TBD
+[April 11th](apr11/apr11.md): Visualization (Seaborn) and Pandas
 
 [April 25th]( "HackMD Page"): TBD
