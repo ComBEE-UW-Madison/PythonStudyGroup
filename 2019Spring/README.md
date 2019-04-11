@@ -8,10 +8,14 @@ This sub-directory contains notes and code for Python Study Group Spring 2019.
 
 [February 28th](https://hackmd.io/YXXu7mVjSH2lQ1Hj04w1Mw "HackMD Page"): Lists, dictionaries, and sets
 
-[March 14th]( "HackMD Page"): BioPython and working with Sequence Data
+[March 28th](https://hackmd.io/ABIkl3vtSiOmFGSHZEw6rA?both): Performing a non-synonymous to synonymous codon usage analysis using Docker and Python
 
-[March 28th]( "HackMD Page"): Pandas and Displaying Data
+[April 11th]("HackMD Page"): Pandas and Displaying Data
 
+<<<<<<< HEAD
 [April 11th](apr11/apr11.md): Visualization (Seaborn) and Pandas
+=======
+[April 25th]("HackMD Page"): TBD
+>>>>>>> c7e983f3d662a399e791fe93a0e17dc2b48c9a2f
 
-[April 25th]( "HackMD Page"): TBD
+May 9th - March 14th postponed to May 9th: TBD
